@@ -7,3 +7,6 @@ http://blog.csdn.net/hellogv/article/category/588885
 
 http://www.cnblogs.com/skynet/category/241385.html    
 这是Android优秀博文列表。
+
+http://www.cnblogs.com/terrylin/archive/2012/05/22/2513320.html
+Eclipse下设置github开发环境
